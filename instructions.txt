@@ -1,0 +1,11 @@
+NEVERX007 MASTER PLAN:
+
+4 Businesses: Get It Done, Swift-Vault, Iron-Logic, Apex-Sync.
+
+80 Jobs per business (320 Total).
+
+30 Advanced Scouts (Validation).
+
+50 Standard Builders (Bootstrap Deployment).
+
+Connection: Live Hooks to PocketBase.
